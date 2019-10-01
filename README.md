@@ -15,11 +15,12 @@ You can run this script using below methods:
       > **python Main.py 30 cc-r ./new_image.json**
       
      where, 
-     30 = Retention Days
      
-     cc-r = Prefix Name to be matched
+     **30 = Retention Days
      
-     ./new_image.json = Full Path to the **.json** file
+     **cc-r = Prefix Name to be matched
+     
+     **./new_image.json = Full Path to the **.json** file
   6. You shall see a list of all the objects which are due for deletion.
   7. Similary you can run the Main.py providing various values for all the 3 command line args.
 
