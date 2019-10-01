@@ -12,4 +12,4 @@ You can run this script using below methods:
   3. You shall see a dir name **CloudCoverScriptingProject** where you exracted the zip file.
   4. Navigate to the **CloudCoverScriptingProject**.
   5. Run the Main.py file using below command:
-  > python Main.py 30 cc-r ./new_image.json
+      > python Main.py 30 cc-r ./new_image.json
