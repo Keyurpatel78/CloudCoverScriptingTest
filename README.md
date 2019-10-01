@@ -13,6 +13,7 @@ You can run this script using below methods:
   4. Navigate to the **CloudCoverScriptingProject**.
   5. Run the Main.py file using below command and command line args:
       > **python Main.py 30 cc-r ./new_image.json**
+      
      where, 
      30 = Retention Days
      cc-r = Prefix Name to be matched
@@ -30,6 +31,8 @@ You can run this script using below methods:
       > **python Main.py**
   4. You shall then be promted to provide following Values:
       > **Please mention the retention days:**
+      
       > **Please mention the prefix string to be matched:**
+      
       > **Please mention the full path to json file:**
   5. Provide all the values and you shall get a list of all the objects which are due for deletion.
